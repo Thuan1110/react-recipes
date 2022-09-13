@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/react-recipes/static/js/main.d373bf3b.js",
+    "static/js/759.363398c8.chunk.js": "/react-recipes/static/js/759.363398c8.chunk.js",
+    "static/js/695.a005395e.chunk.js": "/react-recipes/static/js/695.a005395e.chunk.js",
+    "static/js/143.f84505e5.chunk.js": "/react-recipes/static/js/143.f84505e5.chunk.js",
+    "index.html": "/react-recipes/index.html",
+    "main.d373bf3b.js.map": "/react-recipes/static/js/main.d373bf3b.js.map",
+    "759.363398c8.chunk.js.map": "/react-recipes/static/js/759.363398c8.chunk.js.map",
+    "695.a005395e.chunk.js.map": "/react-recipes/static/js/695.a005395e.chunk.js.map",
+    "143.f84505e5.chunk.js.map": "/react-recipes/static/js/143.f84505e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d373bf3b.js"
+  ]
+}
