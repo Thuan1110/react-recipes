@@ -12,7 +12,10 @@ function App() {
       <Header />
       <GlobalStyles />
       <Routes>
-        <Route path="/" element={<Navigate replace to="/home" />} />
+        <Route
+          path="/react-recipes"
+          element={<Navigate replace to="/home" />}
+        />
         <Route path="/home" element={<Home />} />
         <Route path="/home/cuisine/:type" element={<Home />} />
         <Route path="/detail/:id" element={<Detail />} />

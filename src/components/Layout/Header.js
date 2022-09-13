@@ -6,7 +6,7 @@ const Header = () => {
   const navigate = useNavigate();
 
   const backToHomePageHandler = () => {
-    navigate("/");
+    navigate("/react-recipes");
   };
 
   return (

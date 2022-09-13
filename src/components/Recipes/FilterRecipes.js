@@ -10,7 +10,7 @@ import { StyledList } from "../Styles/List-Container.styled";
 
 const FilterRecipes = () => {
   const params = useParams();
-  console.log(params.type);
+
   const dispatch = useDispatch();
 
   useEffect(() => {
