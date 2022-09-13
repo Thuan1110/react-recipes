@@ -5,11 +5,11 @@ import SearchForm from "../components/Recipes/SearchForm";
 
 const Home = () => {
   return (
-    <React.Fragment>
+    <>
       <SearchForm />
       <FilterRecipes />
       <RecipesList />
-    </React.Fragment>
+    </>
   );
 };
 

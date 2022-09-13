@@ -5,11 +5,7 @@ import RecipesDetail from "../components/Recipes/RecipesDetail";
 const Detail = () => {
   const params = useParams();
 
-  return (
-    <div>
-      <RecipesDetail params={params} />
-    </div>
-  );
+  return <RecipesDetail params={params} />;
 };
 
 export default Detail;
