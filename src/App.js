@@ -8,14 +8,11 @@ const Detail = React.lazy(() => import("./pages/Detail"));
 
 function App() {
   return (
-    <Suspense fallback={<div>...</div>}>
+    <Suspense fallback={<div></div>}>
       <Header />
       <GlobalStyles />
       <Routes>
-        <Route
-          path="/react-recipes"
-          element={<Navigate replace to="/home" />}
-        />
+        <Route path="/" element={<Navigate replace to="/home" />} />
         <Route path="/home" element={<Home />} />
         <Route path="/home/cuisine/:type" element={<Home />} />
         <Route path="/detail/:id" element={<Detail />} />
