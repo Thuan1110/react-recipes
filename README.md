@@ -12,6 +12,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project is mainly for practice on how to use Redux,styled-components and make responsive app
 ```
 
+## Description
+
+```
+Build a simple recipes app with React, Redux, and API to view recipes or instructions for dishes
+```
+
+## Demo
+
+https://thuan1110.github.io/react-recipes/
+
 ## Frameworks/libraries
 
 [react](https://reactjs.org/)  v18.2.0
