@@ -41,7 +41,7 @@ https://thuan1110.github.io/react-recipes/
 
 ## Features
 
-- Search food by name, tags(i.e: vegeterian) 
+- Search food by name
 - View details of the food ( ingredients and instrucitons)
 - Filter food by cuisine
 
